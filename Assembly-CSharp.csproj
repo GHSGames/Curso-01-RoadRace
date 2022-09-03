@@ -37,6 +37,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Animacao\PistaAnimacao.cs" />
+     <Compile Include="Assets\Scripts\Jogador\JogadorController.cs" />
+     <Compile Include="Assets\Scripts\Jogador\VeiculoController.cs" />
+     <Compile Include="Assets\Scripts\Jogador\GiraRoda.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
