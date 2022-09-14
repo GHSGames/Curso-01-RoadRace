@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlaneInimigo
+  - TeleportaInimigo
+  - pneuDianteiro
+  - pneuTraseiro
   layers:
   - Default
   - TransparentFX

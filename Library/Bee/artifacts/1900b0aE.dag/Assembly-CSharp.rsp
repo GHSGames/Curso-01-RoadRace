@@ -352,9 +352,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Animacao/PistaAnimacao.cs"
+"Assets/Scripts/Inimigo/InimigoController.cs"
 "Assets/Scripts/Jogador/GiraRoda.cs"
 "Assets/Scripts/Jogador/JogadorController.cs"
 "Assets/Scripts/Jogador/VeiculoController.cs"
+"Assets/Scripts/JogoController.cs"
+"Assets/Scripts/Pontuacao/PontuaController.cs"
 -langversion:9.0
 
 /deterministic
