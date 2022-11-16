@@ -358,6 +358,7 @@
 "Assets/Scripts/Jogador/VeiculoController.cs"
 "Assets/Scripts/JogoController.cs"
 "Assets/Scripts/Pontuacao/PontuaController.cs"
+"Assets/Scripts/Utils/ButtonScript.cs"
 -langversion:9.0
 
 /deterministic
